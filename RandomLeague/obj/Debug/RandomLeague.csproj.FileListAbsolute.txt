@@ -1,0 +1,15 @@
+C:\Users\Eren\source\repos\RandomLeague\RandomLeague\bin\Debug\RandomLeague.exe.config
+C:\Users\Eren\source\repos\RandomLeague\RandomLeague\bin\Debug\RandomLeague.exe
+C:\Users\Eren\source\repos\RandomLeague\RandomLeague\bin\Debug\RandomLeague.pdb
+C:\Users\Eren\source\repos\RandomLeague\RandomLeague\obj\Debug\RandomLeague.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\RandomLeague\RandomLeague\obj\Debug\RandomLeague.Form1.resources
+C:\Users\Eren\source\repos\RandomLeague\RandomLeague\obj\Debug\RandomLeague.Properties.Resources.resources
+C:\Users\Eren\source\repos\RandomLeague\RandomLeague\obj\Debug\RandomLeague.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\RandomLeague\RandomLeague\obj\Debug\RandomLeague.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\RandomLeague\RandomLeague\obj\Debug\RandomLeague.exe
+C:\Users\Eren\source\repos\RandomLeague\RandomLeague\obj\Debug\RandomLeague.pdb
+C:\Users\Eren\source\repos\RandomLeague\RandomLeague\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eren\source\repos\RandomLeague\RandomLeague\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eren\source\repos\RandomLeague\RandomLeague\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eren\source\repos\RandomLeague\RandomLeague\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eren\source\repos\RandomLeague\RandomLeague\obj\Debug\RandomLeague.csproj.ResolveComReference.cache
